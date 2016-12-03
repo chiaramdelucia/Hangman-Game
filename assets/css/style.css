@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 17px;
+}
+
+.header {
+	background-image: url(../images/ONCE.png);
+	height: 300px;
+
+}
+
+.instructions{
+	text-align: center;
+	height: 100px;
+	line-height: 100px;
+}
+
+.well{
+	text-align: center;
+	background-color: black;
+	border: none;
+}
+
+ul{
+	list-style-type: none;
+}
